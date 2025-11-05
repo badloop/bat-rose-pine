@@ -14,21 +14,21 @@ This repository provides a single Sublime Text `.tmTheme` file: `Rose-Pine.tmThe
 
 ## Palette
 
-| Name      | Hex       | Swatch                                                                          | Role                   |
-| --------- | --------- | ------------------------------------------------------------------------------- | ---------------------- |
-| Base      | `#191724` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#191724" /></svg> | Background             |
-| Surface   | `#1f1d2e` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#1f1d2e" /></svg> | Subtle background      |
-| Overlay   | `#26233a` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#26233a" /></svg> | Elevated background    |
-| Muted     | `#6e6a86` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#6e6a86" /></svg> | Comments / subtle text |
-| Subtle    | `#908caa` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#908caa" /></svg> | Secondary text         |
-| Text      | `#e0def4` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#e0def4" /></svg> | Primary text           |
-| Love      | `#eb6f92` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#eb6f92" /></svg> | Errors / deletions     |
-| Gold      | `#f6c177` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#f6c177" /></svg> | Constants / numbers    |
-| Rose      | `#ea9a97` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#ea9a97" /></svg> | Strings / accents      |
-| Pine      | `#31748f` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#31748f" /></svg> | Types / declarations   |
-| Foam      | `#9ccfd8` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#9ccfd8" /></svg> | Functions / methods    |
-| Iris      | `#c4a7e7` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#c4a7e7" /></svg> | Keywords / control     |
-| Highlight | `#524f67` | <svg width="12" height="12"><circle cx="6" cy="6" r="6" fill="#524f67" /></svg> | Selection / emphasis   |
+| Name      | Hex       | Swatch                                                    | Role                   |
+| --------- | --------- | --------------------------------------------------------- | ---------------------- |
+| Base      | `#191724` | ![#191724](https://singlecolorimage.com/get/191724/12x12) | Background             |
+| Surface   | `#1f1d2e` | ![#1f1d2e](https://singlecolorimage.com/get/1f1d2e/12x12) | Subtle background      |
+| Overlay   | `#26233a` | ![#26233a](https://singlecolorimage.com/get/26233a/12x12) | Elevated background    |
+| Muted     | `#6e6a86` | ![#6e6a86](https://singlecolorimage.com/get/6e6a86/12x12) | Comments / subtle text |
+| Subtle    | `#908caa` | ![#908caa](https://singlecolorimage.com/get/908caa/12x12) | Secondary text         |
+| Text      | `#e0def4` | ![#e0def4](https://singlecolorimage.com/get/e0def4/12x12) | Primary text           |
+| Love      | `#eb6f92` | ![#eb6f92](https://singlecolorimage.com/get/eb6f92/12x12) | Errors / deletions     |
+| Gold      | `#f6c177` | ![#f6c177](https://singlecolorimage.com/get/f6c177/12x12) | Constants / numbers    |
+| Rose      | `#ea9a97` | ![#ea9a97](https://singlecolorimage.com/get/ea9a97/12x12) | Strings / accents      |
+| Pine      | `#31748f` | ![#31748f](https://singlecolorimage.com/get/31748f/12x12) | Types / declarations   |
+| Foam      | `#9ccfd8` | ![#9ccfd8](https://singlecolorimage.com/get/9ccfd8/12x12) | Functions / methods    |
+| Iris      | `#c4a7e7` | ![#c4a7e7](https://singlecolorimage.com/get/c4a7e7/12x12) | Keywords / control     |
+| Highlight | `#524f67` | ![#524f67](https://singlecolorimage.com/get/524f67/12x12) | Selection / emphasis   |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette.png" alt="Rose Pine Palette" />
